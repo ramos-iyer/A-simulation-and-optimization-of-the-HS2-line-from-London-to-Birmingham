@@ -58,7 +58,7 @@ File _'Project Report.ipynb'_ (Running the simulation):
 <a id='optimize'></a>
 
 #### Solving the Optimisation problem using the data collected from Simulation
-File _'x18183239_Project Report.ipynb'_ (The Optimisation):
+File _'Project Report.ipynb'_ (The Optimisation):
 
 - Generates the heatmaps based on the data extracted from simulation
 - Generates the optimisation function using OLSR for passenger count as well as travel time
