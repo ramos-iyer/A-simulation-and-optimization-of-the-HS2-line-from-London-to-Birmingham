@@ -34,7 +34,7 @@ There are four components to this project:
 <a id='data'></a>
 
 #### Data Generation for Simulation
-File _'x18183239_Project Report.ipynb'_ (The initial dataframe creation):
+File _'Project Report.ipynb'_ (The initial dataframe creation):
 
 - Creates the initial dataframe required for the simulation
 - Performs transformations and data CRUD commands as per the requirements of the simulation
@@ -42,7 +42,7 @@ File _'x18183239_Project Report.ipynb'_ (The initial dataframe creation):
 <a id='sim'></a>
 
 #### Simulation of the train line from London to Birmingham
-File _'x18183239_Project Report.ipynb'_ (Building simulation model for the train system):
+File _'Project Report.ipynb'_ (Building simulation model for the train system):
 
 - Creating the required classes and functions for the simulation
 - Running of the simulation based on the data generated
@@ -50,7 +50,7 @@ File _'x18183239_Project Report.ipynb'_ (Building simulation model for the train
 <a id='extract'></a>
 
 #### Data extraction from Simulation
-File _'x18183239_Project Report.ipynb'_ (Running the simulation):
+File _'Project Report.ipynb'_ (Running the simulation):
 
 - Extracts the data from the simulation into separate lists as per the requirements
 - Converts all lists into a single data frame for performing the optimization
@@ -74,6 +74,13 @@ The code requires only Python and Jupyter Notebook to be installed on your machi
 
 ### Screenshots
 
+![Screenshot1](/images/1.png)
+![Screenshot2](/images/2.png)
+![Screenshot3](/images/3.png)
+![Screenshot4](/images/4.png)
+![Screenshot5](/images/5.png)
+![Screenshot6](/images/6.png)
+
 <a id='config'></a>
 
 ### System Configuration Steps
@@ -90,7 +97,7 @@ pandas, matplotlib , scipy, math, numpy, simpy, plotly, random, statsmodels, skl
 
 Below are the files and the folders that are part of the project implementation:
 
-1. x18183239_Project Report.ipynb: Contains the code for the entire project. Does not require any data as the data is generated using python code itself.
+1. Project Report.ipynb: Contains the code for the entire project. Does not require any data as the data is generated using python code itself.
 
 <a id='credits'></a>
 
